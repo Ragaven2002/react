@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.060d77bd.css",
+    "main.js": "/react/static/js/main.5ef88c1a.js",
+    "static/js/787.0edbcda9.chunk.js": "/react/static/js/787.0edbcda9.chunk.js",
+    "static/media/R1.jpg": "/react/static/media/R1.902be9cdfdb529aab6e1.jpg",
+    "static/media/wp2700093-computer-science-engineering-wallpapers.jpg": "/react/static/media/wp2700093-computer-science-engineering-wallpapers.117bf9f09810e8e9af5b.jpg",
+    "static/media/wp2700121-computer-science-engineering-wallpapers.jpg": "/react/static/media/wp2700121-computer-science-engineering-wallpapers.fad6ad329e6588caa1d8.jpg",
+    "static/media/wp2700084-computer-science-engineering-wallpapers.jpg": "/react/static/media/wp2700084-computer-science-engineering-wallpapers.427285906f59e92a9ca1.jpg",
+    "static/media/wp3720937-ece-engineering-wallpapers.jpg": "/react/static/media/wp3720937-ece-engineering-wallpapers.4e0ef19ab5679e42bf29.jpg",
+    "static/media/wp2700114-computer-science-engineering-wallpapers.jpg": "/react/static/media/wp2700114-computer-science-engineering-wallpapers.bd1b25ea7a4e239615c8.jpg",
+    "static/media/wp2923007-ece-engineering-wallpapers.jpg": "/react/static/media/wp2923007-ece-engineering-wallpapers.10f6d644a4e756b26880.jpg",
+    "static/media/wp2700096-ece-engineering-wallpapers.jpg": "/react/static/media/wp2700096-ece-engineering-wallpapers.f6dc697abffefe7538e2.jpg",
+    "static/media/arduino-soil-moisture-sensor.jpg": "/react/static/media/arduino-soil-moisture-sensor.95f4547e506d4ea3444a.jpg",
+    "static/media/heart rate.jpeg": "/react/static/media/heart rate.d48543ac7ffbe0686d2e.jpeg",
+    "static/media/solar tracking.jpeg": "/react/static/media/solar tracking.3282d9376b98b488f3a2.jpeg",
+    "static/media/laser music.jpg": "/react/static/media/laser music.1ed2e1d4689d8190ebb7.jpg",
+    "static/media/logo.png": "/react/static/media/logo.21796b758304d6dbdc77.png",
+    "static/media/wp3004545-ece-engineering-wallpapers.jpg": "/react/static/media/wp3004545-ece-engineering-wallpapers.8921d27fad7148dbf966.jpg",
+    "static/media/Prototype-Arduino-Based-Air-Pollution-Control-System.jpeg": "/react/static/media/Prototype-Arduino-Based-Air-Pollution-Control-System.6efe9b8f7f24b741bc16.jpeg",
+    "static/media/icons8-github-94.png": "/react/static/media/icons8-github-94.7acde23236a5c7507398.png",
+    "static/media/OIP.jpeg": "/react/static/media/OIP.6d505b70751d4382dc22.jpeg",
+    "index.html": "/react/index.html",
+    "main.060d77bd.css.map": "/react/static/css/main.060d77bd.css.map",
+    "main.5ef88c1a.js.map": "/react/static/js/main.5ef88c1a.js.map",
+    "787.0edbcda9.chunk.js.map": "/react/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.060d77bd.css",
+    "static/js/main.5ef88c1a.js"
+  ]
+}
